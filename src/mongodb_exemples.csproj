@@ -9,4 +9,9 @@
     <PackageReference Include="MongoDB.Driver" Version="2.11.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Include="json/albuns.json" CopyToOutputDirectory="Always" />
+  </ItemGroup>
+
+
 </Project>
